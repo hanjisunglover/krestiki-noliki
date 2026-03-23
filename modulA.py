@@ -1,4 +1,5 @@
 # modulA.py
+
 def create_board():
     """Создаёт пустое поле 3x3"""
     return [[" " for _ in range(3)] for _ in range(3)]
